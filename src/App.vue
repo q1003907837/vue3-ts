@@ -1,7 +1,8 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <h2>{{ $store.state.name }}</h2>
+    <router-link to="/login">登录</router-link>
+    <router-link to="/main">主页</router-link>
   </nav>
   <router-view />
 </template>
