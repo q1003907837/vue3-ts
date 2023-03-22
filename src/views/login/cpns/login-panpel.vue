@@ -1,6 +1,6 @@
 <template>
   <div class="login-panpel">
-    <h2>管理系统</h2>
+    <h2>管理系统:正式系统AAA</h2>
     <div>
       <el-tabs type="border-card" class="demo-tabs">
         <el-tab-pane>
